@@ -129,9 +129,9 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Sahil."
-    subtitle: "A passionsate Data Scientist | Data Analyst"
-    content: "My Data Scientist portfolio include projects of Machine Learning, Python, Advance Excel."
-    image: /images/hero.svg
+    subtitle: "Data Scientist | Data Analyst"
+    content: "A passionate Data Scientist with industry expirence. "
+    image: /images/hero.gif
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
